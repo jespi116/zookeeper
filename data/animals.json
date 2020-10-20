@@ -127,6 +127,16 @@
         "zany"
       ],
       "id": "12"
+    },
+    {
+      "name": "Perry",
+      "species": "Platypus",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
